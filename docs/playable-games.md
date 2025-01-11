@@ -11,7 +11,7 @@
 | Forza Horizon 2 F&F         | Does not run    |               |                                                                |
 | Forza Motorsport 5          | Does not run    |               |                                                                |
 | MGSV: Ground Zeroes         | Does not run    |               |                                                                |
-| Minecraft: Xbox One Edition | Title Screen    |               | Gets to the title screen, crashes when trying to load a world. |
+| Minecraft: Xbox One Edition | Partial         |               | Gets ingame, but has no audio.                                 |
 | Stardew Valley              | Does not run    |               |
 | Shovel Knight               | Does not run    |               |
 | Sonic Mania                 | Does not run    |               |
